@@ -1,0 +1,57 @@
+/*For bigger screen then normal 1500px desktop*/
+
+@media (min-width: 1500px) {
+ .container {
+	max-width: 1000px;
+}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1700px) {
+
+}
+
+/*For bigger screen then normal 960px desktop*/
+@media only screen and (max-width: 1199px) {
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+
+
+}
+
+
+/*For Tablet Layout*/
+@media (max-width: 991px) {
+
+}
+
+/*For Wide Mobile Layout*/
+@media (max-width: 767px) {
+
+
+}
+
+@media (max-width: 575px)  {
+
+}
+
+/*For 320-384px up Mobile Layout*/
+
+@media (max-width: 479px) {
+.hero-content p{
+    font-size: 20px
+}
+.main-header h2 {
+    font-size: 26px;
+}
+
+}
+
+
+@media (max-width: 320px) {
+
+}
+

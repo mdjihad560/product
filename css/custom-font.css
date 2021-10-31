@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'BasisGrotesqueProRegular';
+    src: url('../fonts/BasisGrotesqueProRegular.eot');
+    src: url('../fonts/BasisGrotesqueProRegular.eot') format('embedded-opentype'),
+         url('../fonts/BasisGrotesqueProRegular.woff2') format('woff2'),
+         url('../fonts/BasisGrotesqueProRegular.woff') format('woff'),
+         url('../fonts/BasisGrotesqueProRegular.ttf') format('truetype'),
+         url('../fonts/BasisGrotesqueProRegular.svg#BasisGrotesqueProRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'BasisGrotesqueProMedium';
+    src: url('../fonts/BasisGrotesqueProMedium.eot');
+    src: url('../fonts/BasisGrotesqueProMedium.eot') format('embedded-opentype'),
+         url('../fonts/BasisGrotesqueProMedium.woff2') format('woff2'),
+         url('../fonts/BasisGrotesqueProMedium.woff') format('woff'),
+         url('../fonts/BasisGrotesqueProMedium.ttf') format('truetype'),
+         url('../fonts/BasisGrotesqueProMedium.svg#BasisGrotesqueProMedium') format('svg');
+}
+
+
+@font-face {
+    font-family: 'BasisGrotesqueProBold';
+    src: url('../fonts/BasisGrotesqueProBold.eot');
+    src: url('../fonts/BasisGrotesqueProBold.eot') format('embedded-opentype'),
+         url('../fonts/BasisGrotesqueProBold.woff2') format('woff2'),
+         url('../fonts/BasisGrotesqueProBold.woff') format('woff'),
+         url('../fonts/BasisGrotesqueProBold.ttf') format('truetype'),
+         url('../fonts/BasisGrotesqueProBold.svg#BasisGrotesqueProBold') format('svg');
+}
+
